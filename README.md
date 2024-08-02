@@ -1,1 +1,5 @@
 # agrinho
+Ideia de site:
+Criar um site para aproximar os produtores rurais da população de uma maneira simples,
+fazendo um site onde os produtores tem facil acesso para adicionar seus produtos, para serem ofertados e vendidos pelo site, pois muitas pessoas preferem comprar os produtos orgânicos direto do fornecedor, e também esse site iria ajudar muito os produtores, que teriam uma clientela muito maior, nesse site teria que ter a opção de entregar na residência da pessoa que está comprando ou o endereço para a retirada no local de cultivo. pois a taxa de entrega seria bem alta, por causa da distância entre o local de cultivo e o endereço do consumidor final.
+Esse site também poderia oferecer algumas dicas de consumos, como algumas receitas ou formas de usar os alimentos vendidos, muitas pessoas não conhecem alguns tipos de frutos que são mais “exóticos” então isso ajudaria a despertar o interesse em descobrir a forma de consumo adequada de diversos frutos que você muitas vezes não tem contato em um supermercado comum.
